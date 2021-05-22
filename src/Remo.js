@@ -67,7 +67,15 @@ const Remo = () => {
 <iframe src="https://www.youtube.com/embed/SgoCX2nGZ0M"width="750" height="600"></iframe>
 <iframe src="https://www.youtube.com/embed/MCX4YqcW7kU"width="750" height="600"></iframe>
 
-
+<link href="file.css" rel="stylesheet">
+    <body>
+        <div style="color:yellow;"><p>Welcome to Cadd Cae Computers</p>
+        <p>Hello We are learning CSS today </p>
+        <p>example of Internal Style Sheets</p></div>
+        <p>Example of </p><p style="color:chartreuse">External Style Sheets</p>
+        <h1>Good Morning to All</h1>
+        <h2><span style="color:darkgreen;">Today is a Monday</span></h2>
+    </body>
 
 
 
