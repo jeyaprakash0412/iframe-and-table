@@ -28,8 +28,8 @@ function App() {
     
     <Model/>
   </div>
-  <Remo/>
-  <div>multipule</div>
+  
+ 
 
 
 
