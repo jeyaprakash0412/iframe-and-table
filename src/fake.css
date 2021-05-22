@@ -1,0 +1,22 @@
+.guice{
+    background-color: chartreuse;
+}
+.fruit:hover{
+    background-color:cornflowerblue;
+}
+tr:nth-child(even){
+    background-color: crimson;
+}
+.window a:hover {
+    background-color:blue;
+    color:turquoise;
+  }
+
+
+
+.window a:visited{
+    color:white;
+}
+.window a:active{
+    color:orangered;
+}
